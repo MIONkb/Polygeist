@@ -1,5 +1,6 @@
 # Build instructions
 Original commit: https://github.com/llvm/Polygeist/tree/77c04bb2a7a2406ca9480bcc9e729b07d2c8d077
+LLVM Version：https://github.com/llvm/llvm-project/tree/26eb4285b56edd8c897642078d91f16ff0fd3472
 ## Requirements 
 - Working C and C++ toolchains(compiler, linker)
 - cmake
